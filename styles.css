@@ -5,11 +5,13 @@
     padding:0;
     margin:0;
     border:0;
-    z-index: 9999; 
+    z-index: 9999;
+    top:0px; 
+    left:0px;
   }
   .footer {
     position: absolute;
-    top:90%;
+    top:99%;
     width:100%; 
     bottom:0;
     padding:0;

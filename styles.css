@@ -19,3 +19,8 @@
     border:0;
     height: 850px; 
   }
+
+  .test{
+    position: absolute;
+    top:70%;
+  }

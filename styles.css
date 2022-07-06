@@ -13,7 +13,7 @@
     /* position: relative; */
     width:100%; 
     bottom:0;
-    padding:0;
+    padding:0;  
     border:0;
     height: 850px; 
     /* top:128px; */
@@ -21,7 +21,7 @@
 
   .content{
     /* position: relative; */
-    margin-top:15vh;
+    margin-top:20vh;
     margin-left: 15vw;
      /* left:15vw; */
      /* top:15vh; */
